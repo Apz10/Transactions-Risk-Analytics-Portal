@@ -1,0 +1,11 @@
+﻿Date,TxnID,Type,AmountEUR,BalanceEUR,Party,Party Iban,CounterpartyName,CounterpartyIBAN,Description,Location
+2025-08-25,TXN2001,Credit,120000,120000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Energie GmbH ,DE00ENGI1234567890,Solar Panels Export Invoice INV-2025-145,Frankfurt branch
+2025-08-28,TXN2002,Credit,60000,180000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV ,NL00ECOH9988776655,Installation Project Payment NL2025-55,Rotterdam
+2025-08-30,TXN2003,Debit,35000,145000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Import Panels – Supplier Payment,Rotterdam
+2025-09-01,TXN2004,Debit,7500,137500,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,VAT Settlement Aug-2025,Rotterdam
+2025-09-02,TXN2005,Credit,110000,247500,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA ,BE00BELS3344556677,Solar Equipment Export Invoice BE-INV-445,Frankfurt branch
+2025-09-04,TXN2006,Debit,45000,202500,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Green Parts GmbH ,DE00GRNP1122334455,Component Import Payment INV-788,Rotterdam
+2025-09-05,TXN2007,Credit,9500,212000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Private InvestCo BV,NL00PRIV4455667788,Equity Injection / Capital Contribution,Rotterdam
+2025-09-07,TXN2008,Debit,12000,200000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Executive Holdings Ltd ,LU00EXHL1122334455,Consultancy Fee,Offshore
+2025-09-10,TXN2009,Credit,95000,295000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV (,NL00ECOH9988776655,Repeat Project Payment NL2025-56,Rotterdam
+2025-09-12,TXN2010,Debit,18000,277000,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Unknown Third Party,NL00UNKN9988776655,Payment On behalf of partner,Rotterdam
