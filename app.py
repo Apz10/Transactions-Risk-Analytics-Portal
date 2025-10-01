@@ -99,7 +99,7 @@ st.markdown(
         user-select: none;
     }
     </style>
-    <div class="watermark">v.1.0.1</div>
+    <div class="watermark">v.1.0.2</div>
     """,
     unsafe_allow_html=True
 )
