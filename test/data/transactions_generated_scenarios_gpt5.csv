@@ -1,101 +1,101 @@
 Date,TxnID,Type,AmountEUR,BalanceEUR,Party,Party Iban,CounterpartyName,CounterpartyIBAN,Description,Location,Scenario
-02-08-2025,TXN4000,Credit,68878,218878,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Export Invoice EX-108-2025,Eindhoven,Business Income  Export
-03-08-2025,TXN4001,Credit,72964,291842,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,Export Invoice EX-165-2025,Eindhoven,Business Income  Export
-04-08-2025,TXN4002,Credit,2791,294633,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Recurring Sale RS-652-2025,Amsterdam HQ,Recurring Client Sales
-06-08-2025,TXN4003,Credit,63325,357958,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Export Invoice EX-176-2025,Amsterdam HQ,Business Income  Export
-06-08-2025,TXN4004,Credit,16960,374918,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Monthly Retainer MT-590-2025,Rotterdam,Recurring Client Sales
-06-08-2025,TXN4005,Credit,100882,475800,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,International Sales INV-235-2025,Frankfurt branch,Business Income  Export
-08-08-2025,TXN4006,Debit,41559,434241,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,One-off Third Party Payment TP-863-2025,Frankfurt branch,Unusual  Third Party
-08-08-2025,TXN4007,Debit,48643,385598,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Goods Purchase 781-2025,Frankfurt branch,Business Expense  Supplier
-10-08-2025,TXN4008,Credit,32963,418561,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,Export Invoice EX-571-2025,Rotterdam,Business Income  Export
-10-08-2025,TXN4009,Credit,21188,439749,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,International Sales INV-615-2025,Berlin office,Business Income  Export
-10-08-2025,TXN4010,Credit,22542,462291,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 850-2025,Berlin office,Improper  Possible Tax Reduction
-11-08-2025,TXN4011,Credit,23644,485935,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Consulting Fee (Tax) 709-2025,Frankfurt branch,Improper  Possible Tax Reduction
-12-08-2025,TXN4012,Credit,10376,496311,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-230-2025,Berlin office,Private Investment Company  Related Party
-13-08-2025,TXN4013,Debit,67258,429053,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Ad-hoc Service 657-2025,Berlin office,Unusual  Third Party
-15-08-2025,TXN4014,Credit,39069,468122,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 630-2025,Rotterdam,Private Investment Company  Related Party
-15-08-2025,TXN4015,Credit,16818,484940,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Local Contract Payment 603-2025,Amsterdam HQ,Business Income  Domestic
-15-08-2025,TXN4016,Debit,18104,466836,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Goods Purchase 674-2025,Berlin office,Business Expense  Supplier
-16-08-2025,TXN4017,Credit,46055,512891,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 510-2025,Eindhoven,Private Investment Company  Related Party
-16-08-2025,TXN4018,Credit,82466,595357,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-559-2025,Frankfurt branch,Private Investment Company  Related Party
-18-08-2025,TXN4019,Debit,8190,587167,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Regulatory Fee REF-657-2025,Amsterdam HQ,Regulatory Expense
-19-08-2025,TXN4020,Credit,106677,693844,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,International Sales INV-287-2025,Rotterdam,Business Income  Export
-19-08-2025,TXN4021,Credit,94097,787941,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 895-2025,Amsterdam HQ,Private Investment Company  Related Party
-19-08-2025,TXN4022,Debit,14627,773314,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 607-2025,Rotterdam,Improper  Possible Tax Reduction
-20-08-2025,TXN4023,Debit,5222,768092,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Goods Purchase 818-2025,Eindhoven,Business Expense  Supplier
-20-08-2025,TXN4024,Credit,10000,778092,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 602-2025,Amsterdam HQ,Improper  Possible Tax Reduction
-20-08-2025,TXN4025,Credit,62316,840408,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,International Sales INV-955-2025,Frankfurt branch,Business Income  Export
-21-08-2025,TXN4026,Credit,5079,845487,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Domestic Sales INV-425-2025,Berlin office,Business Income  Domestic
-22-08-2025,TXN4027,Debit,49131,796356,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Supplier Invoice SUP-672-2025,Frankfurt branch,Business Expense  Supplier
-22-08-2025,TXN4028,Credit,89660,886016,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 773-2025,Berlin office,Private Investment Company  Related Party
-22-08-2025,TXN4029,Credit,115493,1001509,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-493-2025,Frankfurt branch,Private Investment Company  Related Party
-23-08-2025,TXN4030,Debit,30811,970698,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Goods Purchase 640-2025,Frankfurt branch,Business Expense  Supplier
-23-08-2025,TXN4031,Credit,14232,984930,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Recurring Sale RS-840-2025,Amsterdam HQ,Recurring Client Sales
-23-08-2025,TXN4032,Credit,55058,1039988,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Baltic Supplies,SE00BALT3344556677,Export Invoice EX-871-2025,Eindhoven,Business Income  Export
-25-08-2025,TXN4033,Credit,27772,1067760,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Domestic Sales INV-795-2025,Amsterdam HQ,Business Income  Domestic
-25-08-2025,TXN4034,Debit,13880,1053880,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Regulatory Fee REF-405-2025,Frankfurt branch,Regulatory Expense
-25-08-2025,TXN4035,Credit,13372,1067252,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Recurring Sale RS-765-2025,Rotterdam,Recurring Client Sales
-25-08-2025,TXN4036,Credit,34968,1102220,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Cayman HoldCo,KY00CAYM1122334455,International Sales INV-294-2025,Amsterdam HQ,Business Income  Export
-25-08-2025,TXN4037,Debit,53327,1048893,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Goods Purchase 236-2025,Berlin office,Business Expense  Supplier
-26-08-2025,TXN4038,Credit,15310,1064203,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Baltic Supplies,SE00BALT3344556677,Domestic Sales INV-381-2025,Berlin office,Business Income  Domestic
-26-08-2025,TXN4039,Credit,71350,1135553,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 727-2025,Rotterdam,Private Investment Company  Related Party
-27-08-2025,TXN4040,Debit,9500,1126053,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 619-2025,Amsterdam HQ,Improper  Possible Tax Reduction
-27-08-2025,TXN4041,Credit,47227,1173280,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 325-2025,Rotterdam,Private Investment Company  Related Party
-27-08-2025,TXN4042,Credit,11736,1185016,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Monthly Retainer MT-320-2025,Amsterdam HQ,Recurring Client Sales
-27-08-2025,TXN4043,Credit,9653,1194669,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,Recurring Sale RS-237-2025,Rotterdam,Recurring Client Sales
-27-08-2025,TXN4044,Debit,93119,1101550,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,One-off Third Party Payment TP-424-2025,Amsterdam HQ,Unusual  Third Party
-28-08-2025,TXN4045,Credit,3309,1104859,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Monthly Retainer MT-844-2025,Amsterdam HQ,Recurring Client Sales
-30-08-2025,TXN4046,Credit,93922,1198781,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Export Invoice EX-918-2025,Berlin office,Business Income  Export
-30-08-2025,TXN4047,Credit,24566,1223347,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Domestic Sales INV-704-2025,Frankfurt branch,Business Income  Domestic
-31-08-2025,TXN4048,Debit,16519,1206828,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Regulatory Fee REF-437-2025,Frankfurt branch,Regulatory Expense
-01-09-2025,TXN4049,Debit,92824,1114004,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,One-off Third Party Payment TP-208-2025,Amsterdam HQ,Unusual  Third Party
-01-09-2025,TXN4050,Credit,1819,1115823,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Monthly Retainer MT-347-2025,Berlin office,Recurring Client Sales
-02-09-2025,TXN4051,Debit,24263,1091560,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Cayman HoldCo,KY00CAYM1122334455,Goods Purchase 635-2025,Eindhoven,Business Expense  Supplier
-02-09-2025,TXN4052,Credit,88710,1180270,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 729-2025,Amsterdam HQ,Private Investment Company  Related Party
-02-09-2025,TXN4053,Debit,51961,1128309,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Ad-hoc Service 338-2025,Amsterdam HQ,Unusual  Third Party
-03-09-2025,TXN4054,Credit,123630,1251939,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 243-2025,Berlin office,Private Investment Company  Related Party
-04-09-2025,TXN4055,Debit,55366,1196573,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Supplier Invoice SUP-739-2025,Berlin office,Business Expense  Supplier
-04-09-2025,TXN4056,Debit,5705,1190868,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SwissParts AG,CH00SWIS9988776655,Ad-hoc Service 696-2025,Berlin office,Unusual  Third Party
-04-09-2025,TXN4057,Credit,17268,1208136,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Domestic Sales INV-318-2025,Amsterdam HQ,Business Income  Domestic
-05-09-2025,TXN4058,Debit,23704,1184432,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 249-2025,Rotterdam,Improper  Possible Tax Reduction
-06-09-2025,TXN4059,Debit,12240,1172192,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 485-2025,Frankfurt branch,Improper  Possible Tax Reduction
-06-09-2025,TXN4060,Credit,63058,1235250,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-566-2025,Rotterdam,Private Investment Company  Related Party
-06-09-2025,TXN4061,Credit,16690,1251940,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Recurring Sale RS-459-2025,Frankfurt branch,Recurring Client Sales
-07-09-2025,TXN4062,Credit,81769,1333709,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,International Sales INV-869-2025,Berlin office,Business Income  Export
-07-09-2025,TXN4063,Debit,75754,1257955,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,One-off Third Party Payment TP-273-2025,Eindhoven,Unusual  Third Party
-07-09-2025,TXN4064,Credit,27784,1285739,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,International Sales INV-153-2025,Amsterdam HQ,Business Income  Export
-08-09-2025,TXN4065,Credit,4986,1290725,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SwissParts AG,CH00SWIS9988776655,Local Contract Payment 595-2025,Rotterdam,Business Income  Domestic
-08-09-2025,TXN4066,Credit,9000,1299725,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Tax Adjustment TA-903-2025,Eindhoven,Improper  Possible Tax Reduction
-08-09-2025,TXN4067,Credit,19922,1319647,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Recurring Sale RS-450-2025,Amsterdam HQ,Recurring Client Sales
-09-09-2025,TXN4068,Credit,68688,1388335,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Export Invoice EX-955-2025,Frankfurt branch,Business Income  Export
-09-09-2025,TXN4069,Credit,24368,1412703,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-986-2025,Rotterdam,Private Investment Company  Related Party
-11-09-2025,TXN4070,Debit,10000,1402703,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 393-2025,Amsterdam HQ,Improper  Possible Tax Reduction
-11-09-2025,TXN4071,Debit,6808,1395895,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Regulatory Fee REF-461-2025,Eindhoven,Regulatory Expense
-12-09-2025,TXN4072,Credit,10470,1406365,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Recurring Sale RS-689-2025,Berlin office,Recurring Client Sales
-12-09-2025,TXN4073,Credit,51131,1457496,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,International Sales INV-729-2025,Rotterdam,Business Income  Export
-12-09-2025,TXN4074,Credit,15581,1473077,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Local Contract Payment 542-2025,Amsterdam HQ,Business Income  Domestic
-12-09-2025,TXN4075,Debit,48492,1424585,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Goods Purchase 505-2025,Eindhoven,Business Expense  Supplier
-13-09-2025,TXN4076,Credit,48738,1473323,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Export Invoice EX-539-2025,Eindhoven,Business Income  Export
-13-09-2025,TXN4077,Debit,44985,1428338,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Supplier Invoice SUP-112-2025,Amsterdam HQ,Business Expense  Supplier
-13-09-2025,TXN4078,Credit,8462,1436800,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Monthly Retainer MT-500-2025,Amsterdam HQ,Recurring Client Sales
-14-09-2025,TXN4079,Debit,12500,1424300,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Tax Adjustment TA-650-2025,Frankfurt branch,Improper  Possible Tax Reduction
-14-09-2025,TXN4080,Debit,7721,1416579,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Tax Adjustment TA-718-2025,Eindhoven,Improper  Possible Tax Reduction
-14-09-2025,TXN4081,Credit,138575,1555154,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-725-2025,Frankfurt branch,Private Investment Company  Related Party
-14-09-2025,TXN4082,Credit,80648,1635802,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,International Sales INV-742-2025,Eindhoven,Business Income  Export
-15-09-2025,TXN4083,Credit,10143,1645945,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Monthly Retainer MT-162-2025,Eindhoven,Recurring Client Sales
-15-09-2025,TXN4084,Debit,3316,1642629,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Supplier Invoice SUP-161-2025,Rotterdam,Business Expense  Supplier
-17-09-2025,TXN4085,Credit,27737,1670366,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Export Invoice EX-181-2025,Frankfurt branch,Business Income  Export
-17-09-2025,TXN4086,Credit,43354,1713720,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 503-2025,Frankfurt branch,Private Investment Company  Related Party
-21-09-2025,TXN4087,Credit,52072,1765792,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-968-2025,Berlin office,Private Investment Company  Related Party
-22-09-2025,TXN4088,Credit,19538,1785330,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Energie GmbH,DE00ENGI1234567890,Export Invoice EX-945-2025,Eindhoven,Business Income  Export
-22-09-2025,TXN4089,Credit,50696,1836026,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Export Invoice EX-324-2025,Amsterdam HQ,Business Income  Export
-22-09-2025,TXN4090,Credit,19430,1855456,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Local Contract Payment 359-2025,Rotterdam,Business Income  Domestic
-23-09-2025,TXN4091,Credit,309,1855765,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Energie GmbH,DE00ENGI1234567890,Recurring Sale RS-738-2025,Rotterdam,Recurring Client Sales
-24-09-2025,TXN4092,Credit,9500,1865265,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 664-2025,Berlin office,Improper  Possible Tax Reduction
-24-09-2025,TXN4093,Debit,4045,1861220,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Regulatory Fee REF-593-2025,Eindhoven,Regulatory Expense
-25-09-2025,TXN4094,Credit,65330,1926550,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Export Invoice EX-614-2025,Eindhoven,Business Income  Export
-27-09-2025,TXN4095,Credit,28364,1954914,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Domestic Sales INV-466-2025,Eindhoven,Business Income  Domestic
-28-09-2025,TXN4096,Debit,35994,1918920,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Supplier Invoice SUP-477-2025,Eindhoven,Business Expense  Supplier
-30-09-2025,TXN4097,Credit,14368,1933288,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Recurring Sale RS-871-2025,Amsterdam HQ,Recurring Client Sales
-01-10-2025,TXN4098,Debit,17997,1915291,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Regulatory Fee REF-319-2025,Frankfurt branch,Regulatory Expense
-01-10-2025,TXN4099,Credit,19356,1934647,GreenFuture Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Monthly Retainer MT-980-2025,Berlin office,Recurring Client Sales
+02-08-2025,TXN4000,Credit,68878,218878, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Export Invoice EX-108-2025,Eindhoven,Business Income  Export
+03-08-2025,TXN4001,Credit,72964,291842, Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,Export Invoice EX-165-2025,Eindhoven,Business Income  Export
+04-08-2025,TXN4002,Credit,2791,294633, Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Recurring Sale RS-652-2025,Amsterdam HQ,Recurring Client Sales
+06-08-2025,TXN4003,Credit,63325,357958, Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Export Invoice EX-176-2025,Amsterdam HQ,Business Income  Export
+06-08-2025,TXN4004,Credit,16960,374918, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Monthly Retainer MT-590-2025,Rotterdam,Recurring Client Sales
+06-08-2025,TXN4005,Credit,100882,475800, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,International Sales INV-235-2025,Frankfurt branch,Business Income  Export
+08-08-2025,TXN4006,Debit,41559,434241, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,One-off Third Party Payment TP-863-2025,Frankfurt branch,Unusual  Third Party
+08-08-2025,TXN4007,Debit,48643,385598, Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Goods Purchase 781-2025,Frankfurt branch,Business Expense  Supplier
+10-08-2025,TXN4008,Credit,32963,418561, Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,Export Invoice EX-571-2025,Rotterdam,Business Income  Export
+10-08-2025,TXN4009,Credit,21188,439749, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,International Sales INV-615-2025,Berlin office,Business Income  Export
+10-08-2025,TXN4010,Credit,22542,462291, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 850-2025,Berlin office,Improper  Possible Tax Reduction
+11-08-2025,TXN4011,Credit,23644,485935, Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Consulting Fee (Tax) 709-2025,Frankfurt branch,Improper  Possible Tax Reduction
+12-08-2025,TXN4012,Credit,10376,496311, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-230-2025,Berlin office,Private Investment Company  Related Party
+13-08-2025,TXN4013,Debit,67258,429053, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Ad-hoc Service 657-2025,Berlin office,Unusual  Third Party
+15-08-2025,TXN4014,Credit,39069,468122, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 630-2025,Rotterdam,Private Investment Company  Related Party
+15-08-2025,TXN4015,Credit,16818,484940, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Local Contract Payment 603-2025,Amsterdam HQ,Business Income  Domestic
+15-08-2025,TXN4016,Debit,18104,466836, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Goods Purchase 674-2025,Berlin office,Business Expense  Supplier
+16-08-2025,TXN4017,Credit,46055,512891, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 510-2025,Eindhoven,Private Investment Company  Related Party
+16-08-2025,TXN4018,Credit,82466,595357, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-559-2025,Frankfurt branch,Private Investment Company  Related Party
+18-08-2025,TXN4019,Debit,8190,587167, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Regulatory Fee REF-657-2025,Amsterdam HQ,Regulatory Expense
+19-08-2025,TXN4020,Credit,106677,693844, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,International Sales INV-287-2025,Rotterdam,Business Income  Export
+19-08-2025,TXN4021,Credit,94097,787941, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 895-2025,Amsterdam HQ,Private Investment Company  Related Party
+19-08-2025,TXN4022,Debit,14627,773314, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 607-2025,Rotterdam,Improper  Possible Tax Reduction
+20-08-2025,TXN4023,Debit,5222,768092, Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Goods Purchase 818-2025,Eindhoven,Business Expense  Supplier
+20-08-2025,TXN4024,Credit,10000,778092, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 602-2025,Amsterdam HQ,Improper  Possible Tax Reduction
+20-08-2025,TXN4025,Credit,62316,840408, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,International Sales INV-955-2025,Frankfurt branch,Business Income  Export
+21-08-2025,TXN4026,Credit,5079,845487, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Domestic Sales INV-425-2025,Berlin office,Business Income  Domestic
+22-08-2025,TXN4027,Debit,49131,796356, Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Supplier Invoice SUP-672-2025,Frankfurt branch,Business Expense  Supplier
+22-08-2025,TXN4028,Credit,89660,886016, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 773-2025,Berlin office,Private Investment Company  Related Party
+22-08-2025,TXN4029,Credit,115493,1001509, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-493-2025,Frankfurt branch,Private Investment Company  Related Party
+23-08-2025,TXN4030,Debit,30811,970698, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Goods Purchase 640-2025,Frankfurt branch,Business Expense  Supplier
+23-08-2025,TXN4031,Credit,14232,984930, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Recurring Sale RS-840-2025,Amsterdam HQ,Recurring Client Sales
+23-08-2025,TXN4032,Credit,55058,1039988, Solar Solutions B.V.,NL00ABNA9988776644,Baltic Supplies,SE00BALT3344556677,Export Invoice EX-871-2025,Eindhoven,Business Income  Export
+25-08-2025,TXN4033,Credit,27772,1067760, Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Domestic Sales INV-795-2025,Amsterdam HQ,Business Income  Domestic
+25-08-2025,TXN4034,Debit,13880,1053880, Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Regulatory Fee REF-405-2025,Frankfurt branch,Regulatory Expense
+25-08-2025,TXN4035,Credit,13372,1067252, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Recurring Sale RS-765-2025,Rotterdam,Recurring Client Sales
+25-08-2025,TXN4036,Credit,34968,1102220, Solar Solutions B.V.,NL00ABNA9988776644,Cayman HoldCo,KY00CAYM1122334455,International Sales INV-294-2025,Amsterdam HQ,Business Income  Export
+25-08-2025,TXN4037,Debit,53327,1048893, Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Goods Purchase 236-2025,Berlin office,Business Expense  Supplier
+26-08-2025,TXN4038,Credit,15310,1064203, Solar Solutions B.V.,NL00ABNA9988776644,Baltic Supplies,SE00BALT3344556677,Domestic Sales INV-381-2025,Berlin office,Business Income  Domestic
+26-08-2025,TXN4039,Credit,71350,1135553, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 727-2025,Rotterdam,Private Investment Company  Related Party
+27-08-2025,TXN4040,Debit,9500,1126053, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 619-2025,Amsterdam HQ,Improper  Possible Tax Reduction
+27-08-2025,TXN4041,Credit,47227,1173280, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 325-2025,Rotterdam,Private Investment Company  Related Party
+27-08-2025,TXN4042,Credit,11736,1185016, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Monthly Retainer MT-320-2025,Amsterdam HQ,Recurring Client Sales
+27-08-2025,TXN4043,Credit,9653,1194669, Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,Recurring Sale RS-237-2025,Rotterdam,Recurring Client Sales
+27-08-2025,TXN4044,Debit,93119,1101550, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,One-off Third Party Payment TP-424-2025,Amsterdam HQ,Unusual  Third Party
+28-08-2025,TXN4045,Credit,3309,1104859, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Monthly Retainer MT-844-2025,Amsterdam HQ,Recurring Client Sales
+30-08-2025,TXN4046,Credit,93922,1198781, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Export Invoice EX-918-2025,Berlin office,Business Income  Export
+30-08-2025,TXN4047,Credit,24566,1223347, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Domestic Sales INV-704-2025,Frankfurt branch,Business Income  Domestic
+31-08-2025,TXN4048,Debit,16519,1206828, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Regulatory Fee REF-437-2025,Frankfurt branch,Regulatory Expense
+01-09-2025,TXN4049,Debit,92824,1114004, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,One-off Third Party Payment TP-208-2025,Amsterdam HQ,Unusual  Third Party
+01-09-2025,TXN4050,Credit,1819,1115823, Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Monthly Retainer MT-347-2025,Berlin office,Recurring Client Sales
+02-09-2025,TXN4051,Debit,24263,1091560, Solar Solutions B.V.,NL00ABNA9988776644,Cayman HoldCo,KY00CAYM1122334455,Goods Purchase 635-2025,Eindhoven,Business Expense  Supplier
+02-09-2025,TXN4052,Credit,88710,1180270, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 729-2025,Amsterdam HQ,Private Investment Company  Related Party
+02-09-2025,TXN4053,Debit,51961,1128309, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Ad-hoc Service 338-2025,Amsterdam HQ,Unusual  Third Party
+03-09-2025,TXN4054,Credit,123630,1251939, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 243-2025,Berlin office,Private Investment Company  Related Party
+04-09-2025,TXN4055,Debit,55366,1196573, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Supplier Invoice SUP-739-2025,Berlin office,Business Expense  Supplier
+04-09-2025,TXN4056,Debit,5705,1190868, Solar Solutions B.V.,NL00ABNA9988776644,SwissParts AG,CH00SWIS9988776655,Ad-hoc Service 696-2025,Berlin office,Unusual  Third Party
+04-09-2025,TXN4057,Credit,17268,1208136, Solar Solutions B.V.,NL00ABNA9988776644,UK Components Ltd,GB00UKCO9988776655,Domestic Sales INV-318-2025,Amsterdam HQ,Business Income  Domestic
+05-09-2025,TXN4058,Debit,23704,1184432, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 249-2025,Rotterdam,Improper  Possible Tax Reduction
+06-09-2025,TXN4059,Debit,12240,1172192, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 485-2025,Frankfurt branch,Improper  Possible Tax Reduction
+06-09-2025,TXN4060,Credit,63058,1235250, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-566-2025,Rotterdam,Private Investment Company  Related Party
+06-09-2025,TXN4061,Credit,16690,1251940, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Recurring Sale RS-459-2025,Frankfurt branch,Recurring Client Sales
+07-09-2025,TXN4062,Credit,81769,1333709, Solar Solutions B.V.,NL00ABNA9988776644,EcoHome BV,NL00ECOH9988776655,International Sales INV-869-2025,Berlin office,Business Income  Export
+07-09-2025,TXN4063,Debit,75754,1257955, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,One-off Third Party Payment TP-273-2025,Eindhoven,Unusual  Third Party
+07-09-2025,TXN4064,Credit,27784,1285739, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,International Sales INV-153-2025,Amsterdam HQ,Business Income  Export
+08-09-2025,TXN4065,Credit,4986,1290725, Solar Solutions B.V.,NL00ABNA9988776644,SwissParts AG,CH00SWIS9988776655,Local Contract Payment 595-2025,Rotterdam,Business Income  Domestic
+08-09-2025,TXN4066,Credit,9000,1299725, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Tax Adjustment TA-903-2025,Eindhoven,Improper  Possible Tax Reduction
+08-09-2025,TXN4067,Credit,19922,1319647, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Recurring Sale RS-450-2025,Amsterdam HQ,Recurring Client Sales
+09-09-2025,TXN4068,Credit,68688,1388335, Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Export Invoice EX-955-2025,Frankfurt branch,Business Income  Export
+09-09-2025,TXN4069,Credit,24368,1412703, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-986-2025,Rotterdam,Private Investment Company  Related Party
+11-09-2025,TXN4070,Debit,10000,1402703, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Consulting Fee (Tax) 393-2025,Amsterdam HQ,Improper  Possible Tax Reduction
+11-09-2025,TXN4071,Debit,6808,1395895, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Regulatory Fee REF-461-2025,Eindhoven,Regulatory Expense
+12-09-2025,TXN4072,Credit,10470,1406365, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Recurring Sale RS-689-2025,Berlin office,Recurring Client Sales
+12-09-2025,TXN4073,Credit,51131,1457496, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,International Sales INV-729-2025,Rotterdam,Business Income  Export
+12-09-2025,TXN4074,Credit,15581,1473077, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Local Contract Payment 542-2025,Amsterdam HQ,Business Income  Domestic
+12-09-2025,TXN4075,Debit,48492,1424585, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Goods Purchase 505-2025,Eindhoven,Business Expense  Supplier
+13-09-2025,TXN4076,Credit,48738,1473323, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,Export Invoice EX-539-2025,Eindhoven,Business Income  Export
+13-09-2025,TXN4077,Debit,44985,1428338, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Supplier Invoice SUP-112-2025,Amsterdam HQ,Business Expense  Supplier
+13-09-2025,TXN4078,Credit,8462,1436800, Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Monthly Retainer MT-500-2025,Amsterdam HQ,Recurring Client Sales
+14-09-2025,TXN4079,Debit,12500,1424300, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Tax Adjustment TA-650-2025,Frankfurt branch,Improper  Possible Tax Reduction
+14-09-2025,TXN4080,Debit,7721,1416579, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Tax Adjustment TA-718-2025,Eindhoven,Improper  Possible Tax Reduction
+14-09-2025,TXN4081,Credit,138575,1555154, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-725-2025,Frankfurt branch,Private Investment Company  Related Party
+14-09-2025,TXN4082,Credit,80648,1635802, Solar Solutions B.V.,NL00ABNA9988776644,Italy Energy SRL,IT00ENRG5566778899,International Sales INV-742-2025,Eindhoven,Business Income  Export
+15-09-2025,TXN4083,Credit,10143,1645945, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Monthly Retainer MT-162-2025,Eindhoven,Recurring Client Sales
+15-09-2025,TXN4084,Debit,3316,1642629, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Supplier Invoice SUP-161-2025,Rotterdam,Business Expense  Supplier
+17-09-2025,TXN4085,Credit,27737,1670366, Solar Solutions B.V.,NL00ABNA9988776644,Dutch Tax Authority,NL00BTAX9988776655,Export Invoice EX-181-2025,Frankfurt branch,Business Income  Export
+17-09-2025,TXN4086,Credit,43354,1713720, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Investment Return 503-2025,Frankfurt branch,Private Investment Company  Related Party
+21-09-2025,TXN4087,Credit,52072,1765792, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Related Party Payment RP-968-2025,Berlin office,Private Investment Company  Related Party
+22-09-2025,TXN4088,Credit,19538,1785330, Solar Solutions B.V.,NL00ABNA9988776644,Energie GmbH,DE00ENGI1234567890,Export Invoice EX-945-2025,Eindhoven,Business Income  Export
+22-09-2025,TXN4089,Credit,50696,1836026, Solar Solutions B.V.,NL00ABNA9988776644,RelatedInvest B.V.,NL00RELA1122334455,Export Invoice EX-324-2025,Amsterdam HQ,Business Income  Export
+22-09-2025,TXN4090,Credit,19430,1855456, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Local Contract Payment 359-2025,Rotterdam,Business Income  Domestic
+23-09-2025,TXN4091,Credit,309,1855765, Solar Solutions B.V.,NL00ABNA9988776644,Energie GmbH,DE00ENGI1234567890,Recurring Sale RS-738-2025,Rotterdam,Recurring Client Sales
+24-09-2025,TXN4092,Credit,9500,1865265, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Consulting Fee (Tax) 664-2025,Berlin office,Improper  Possible Tax Reduction
+24-09-2025,TXN4093,Debit,4045,1861220, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Regulatory Fee REF-593-2025,Eindhoven,Regulatory Expense
+25-09-2025,TXN4094,Credit,65330,1926550, Solar Solutions B.V.,NL00ABNA9988776644,BelSolar SA,BE00BELS3344556677,Export Invoice EX-614-2025,Eindhoven,Business Income  Export
+27-09-2025,TXN4095,Credit,28364,1954914, Solar Solutions B.V.,NL00ABNA9988776644,SolarSupply Asia Ltd,SG00SOLR5566778899,Domestic Sales INV-466-2025,Eindhoven,Business Income  Domestic
+28-09-2025,TXN4096,Debit,35994,1918920, Solar Solutions B.V.,NL00ABNA9988776644,Iberia Install,ES00IBER3344556677,Supplier Invoice SUP-477-2025,Eindhoven,Business Expense  Supplier
+30-09-2025,TXN4097,Credit,14368,1933288, Solar Solutions B.V.,NL00ABNA9988776644,LuxFinance Offshore,LU00LUXF1122334455,Recurring Sale RS-871-2025,Amsterdam HQ,Recurring Client Sales
+01-10-2025,TXN4098,Debit,17997,1915291, Solar Solutions B.V.,NL00ABNA9988776644,PanEuro Trading,FR00PANE5566778899,Regulatory Fee REF-319-2025,Frankfurt branch,Regulatory Expense
+01-10-2025,TXN4099,Credit,19356,1934647, Solar Solutions B.V.,NL00ABNA9988776644,MicroInvoice Inc,NL00MICR9988776600,Monthly Retainer MT-980-2025,Berlin office,Recurring Client Sales

@@ -1,0 +1,9 @@
+dotenv
+langchain
+pandas
+streamlit
+streamlit-chat
+streamlit-aggrid
+openai
+anthropic
+langchain_openai
