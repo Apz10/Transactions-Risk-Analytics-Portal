@@ -73,12 +73,12 @@ elif page == "Counter Party Analysis":
 elif page == "Data Counter Party Analysis":
 	st.title("Data For Counter Party Analysis")
 	st.markdown("Sample Test Data for Counter Party Analysis (by Mani):")
-	df = pd.read_csv("Transactions-Risk-Analytics-Portal\\test\\data\\transactions.csv")
+	df = pd.read_csv("Transactions-Risk-Analytics-Portal/test/data/transactions.csv")
 	edited_df = st.data_editor(df, num_rows="dynamic")
 
 
 	st.markdown("Training Data Generated for Counter Party Analysis (by GPT-5):")
-	df = pd.read_csv("Transactions-Risk-Analytics-Portal\\test\\data\\transactions_generated_scenarios_gpt5.csv")
+	df = pd.read_csv("Transactions-Risk-Analytics-Portal/test/data/transactions_generated_scenarios_gpt5.csv")
 	edited_df = st.data_editor(df, num_rows="dynamic")
 
 st.markdown(
