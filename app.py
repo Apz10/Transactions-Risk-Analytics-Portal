@@ -89,7 +89,7 @@ st.markdown(
     <style>
     .watermark {
         position: fixed;
-        bottom: 30px;
+        bottom: 40px;
         right: 30px;
         opacity: 1;
         font-size: 20px;
@@ -99,7 +99,7 @@ st.markdown(
         user-select: none;
     }
     </style>
-    <div class="watermark">-Apz</div>
+    <div class="watermark">v.1.0.1</div>
     """,
     unsafe_allow_html=True
 )
