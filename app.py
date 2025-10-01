@@ -52,7 +52,7 @@ elif page == "Counter Party Analysis":
 		
 
 		# Step3c: Edit CSV
-		edited_df = st.data_editor(df, num_rows="dynamic")
+		edited_df = st.data_editor(df, num_rows="dynamic").limit(10)
 
 		# Step3d: Submit CSV
 	if st.button("Submit CSV for Risk Analysis"):
@@ -75,7 +75,7 @@ elif page == "Data Counter Party Analysis":
 
 	st.markdown("Sample Test Data for Counter Party Analysis (by Mani):")
 	ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-	
+
 	df = pd.read_csv(os.path.join(ROOT_DIR, "test/data/transactions.csv"))
 	edited_df = st.data_editor(df, num_rows="dynamic")
 
