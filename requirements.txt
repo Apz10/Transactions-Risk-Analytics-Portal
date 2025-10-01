@@ -4,6 +4,6 @@ pandas
 streamlit
 streamlit-chat
 streamlit-aggrid
-openai
+openai==0.28
 anthropic
 langchain_openai
