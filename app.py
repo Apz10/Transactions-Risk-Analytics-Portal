@@ -58,7 +58,7 @@ elif page == "Counter Party Analysis":
 	if st.button("Submit CSV for Risk Analysis"):
 		# Step3f: Send to OpenAI model
 		try:
-			prompt = "Detect suspicious transactions in the following data:\n" + edited_df.to_csv(index=False)
+			prompt = "Detect suspicious transactions in the following data:\n, Output a csv file with only two columns: 'txnid' and 'Scenario', choose scenario from the following list:\n- Business Income – Export\n- Business Income – Domestic\n- Business Expense – Supplier\n- Regulatory Expense\n- Private Investment Company – Related Party\n- Improper – Possible Tax Reduction\n- Recurring Client Sales\n- Unusual – Third Party\n" + edited_df.to_csv(index=False)
 
 			result = cp_analysis_agent.run_counterparty_analysis(prompt, llm_agent)
 			# Step3g: Display result
