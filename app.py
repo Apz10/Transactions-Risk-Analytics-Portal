@@ -37,7 +37,7 @@ elif page == "Counter Party Analysis":
 
 	# Step3a: Upload CSV
 	uploaded_file = st.file_uploader("Upload a CSV file", type=["csv"])
-	llm_agent = st.selectbox("Choose LLM Agent", ["gpt-3.5-turbo", "gpt-4", "gpt-4.1-nano-2025-04-14"])
+	llm_agent = st.selectbox("Choose LLM Agent", ["gpt-3.5-turbo", "gpt-4", "ft:gpt-4.1-nano-2025-04-14:personal::CLygEFH0"])
 
 	if uploaded_file:
 		# Step3e: Validate CSV
