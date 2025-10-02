@@ -34,10 +34,10 @@ if page == "Welcome":
 				""")
 	st.markdown("Trained on small dataset, large training in-progress :)")
 	ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-	# st.write(ROOT_DIR)
-	bs = (ROOT_DIR +"/webresource/images/TrainingGraph.png").replace("/", "\\")
-	# st.write(bs)
-	st.image(bs, caption="", use_container_width =True)
+	# # st.write(ROOT_DIR)
+	# bs = (ROOT_DIR +"/webresource/images/TrainingGraph.png").replace("/", "\\")
+	# # st.write(bs)
+	st.image("./Transactions-Risk-Analytics-Portal/webresource/images/TrainingGraph.png", caption="", use_container_width =True)
 
 
 # Counter Party Analysis Page
@@ -152,7 +152,7 @@ st.markdown(
         user-select: none;
     }
     </style>
-    <div class="watermark">v.1.0.3</div>
+    <div class="watermark">v.1.0.4</div>
     """,
     unsafe_allow_html=True
 )
