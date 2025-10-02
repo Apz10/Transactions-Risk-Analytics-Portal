@@ -152,7 +152,7 @@ st.markdown(
         user-select: none;
     }
     </style>
-    <div class="watermark">v.1.0.4</div>
+    <div class="watermark">apz v.1.0.4</div>
     """,
     unsafe_allow_html=True
 )
