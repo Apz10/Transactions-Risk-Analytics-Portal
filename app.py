@@ -8,6 +8,7 @@ from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 import json
+from PIL import Image
 
 # Sidebar navigation
 st.sidebar.title("Transactions Risk Analytics Portal")
@@ -33,8 +34,10 @@ if page == "Welcome":
 				""")
 	st.markdown("Trained on small dataset, large training in-progress :)")
 	ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
-	# st.write(os.path.join(ROOT_DIR, "Transactions-Risk-Analytics-Portal/webresource/images/TrainingGraph.png"))
-	st.image(os.path.join(ROOT_DIR, "Transactions-Risk-Analytics-Portal/webresource/images/TrainingGraph.png"), caption="", use_container_width =True)
+	# st.write(ROOT_DIR)
+	bs = (ROOT_DIR +"/webresource/images/TrainingGraph.png").replace("/", "\\")
+	# st.write(bs)
+	st.image(bs, caption="", use_container_width =True)
 
 
 # Counter Party Analysis Page
